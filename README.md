@@ -136,7 +136,3 @@ This project demonstrates the implementation of:
 Algorithm and Programming
 Faculty of Informatics  
 Telkom University
-
----
-
-⭐ Developed as a learning project for beginner Data Science portfolio management.
